@@ -1,7 +1,7 @@
 # extra-cheese
 
 ## Features
-* Like [cloud-to-butt](), except that instead of replacing "cloud" with "butt", it replaces "supreme leader" with "supreme pizza".
+* Like [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt), except that instead of replacing "cloud" with "butt", it replaces "supreme leader" with "supreme pizza".
 * Organic and grass-fed
 * Kim Jong-un approved
 * Official Chrome and Safari extension of People's Republic of North Korea
