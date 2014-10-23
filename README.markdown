@@ -5,7 +5,7 @@
 * Organic and grass-fed
 * Kim Jong-un approved
 
-[![North Korean People's Army Funky Get Down Juche Party](https://raw.github.com/GabLeRoux/WebMole/master/ressources/video-shot.png)](https://www.youtube.com/watch?v=lwoSFQb5HVk)
+[![North Korean People's Army Funky Get Down Juche Party](https://raw.github.com/jpteti/extra-cheese/master/ressources/video-shot.png)](https://www.youtube.com/watch?v=lwoSFQb5HVkg)
 
 
 ## License
